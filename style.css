@@ -1,0 +1,107 @@
+body {
+	background-color: #777;
+}
+
+.top {
+  background: #ebebeb;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+  margin-right: 90px;
+  color: black;
+  text-align: center;
+}
+
+.nav {
+  height: 25px;
+  background: #ebebeb;
+  padding: 15px;
+  margin-left: 90px;
+  margin-bottom: 10px; 
+  margin-right: 90px;
+  color: black;
+  text-align: center;
+}
+
+.right {
+	width: 33%;
+	height: 400px;
+	margin-right: 90px;
+	padding: 1px;
+	border: 1px;
+	background-color: #ebebeb;
+	text-align: center;
+	float: right;
+	
+
+}
+
+.left {
+	width: 40%;
+	height: 400px;
+	position: relative;
+	margin-left: 90px;
+	padding: 1px;
+	border: 1px;
+	background-color: #ebebeb;
+	text-align: top;
+	z-index: -1;
+	float: left;
+
+}
+.article {
+	clear: both;
+	width: 20%;
+	height: 100px;
+	position: absolute;
+	margin-left: 90px;
+	margin-bottom: 900px;
+	padding: 1px;
+	border: 1px;
+	background-color: red;
+	text-align: top;
+	z-index: +2;
+	float: left;
+	
+}
+.headings {
+	clear: both;
+	float: left;
+	width: 50px;
+	height: 5px;
+	padding: 5px;
+	border: 10px;
+	margin-right: : 150px;
+	background-color: #ebebeb;
+	background-color: orange;
+}
+
+.p {
+	float: left;
+	width: 200px;
+	height: 10px;
+	padding: 5px;
+	border: 10px;
+	margin-right: : 100px;
+	background-color: #ebebeb;
+	background-color: green;
+}
+.footer {
+	clear: both;
+  background: #ebebeb;
+  padding: 20px;
+  height: 25px;
+  margin-top: 50px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+  margin-right: 90px;
+  color: black;
+  text-align: center;
+} 
+
+
+}
+.clear
+
+
